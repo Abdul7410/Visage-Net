@@ -1,6 +1,7 @@
 
 
-````md
+---
+
 # Visage Net
 
 **Visage Net** is a face recognition–powered system that automatically clusters and delivers personalized photos from large-scale events such as marathons, festivals, and weddings.  
@@ -200,5 +201,6 @@ This project is intended for educational and research purposes.
 
 
 ```
+
 
 
