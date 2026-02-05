@@ -40,7 +40,7 @@ All required Python packages are listed in `requirements.txt`.
 ## Project Structure
 
 ```bash
-pixelpigeon/
+Visage-Net/
 │
 ├── assets/
 │   └── UI images and static resources
@@ -201,6 +201,7 @@ This project is intended for educational and research purposes.
 
 
 ```
+
 
 
 
