@@ -128,8 +128,8 @@ Central configuration file containing:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/pixelpigeon.git
-cd pixelpigeon
+git clone https://github.com/Abdul7410/Visage-Net.git
+cd Visage-Net
 ```
 
 ### 2. Create and activate a virtual environment
@@ -201,6 +201,7 @@ This project is intended for educational and research purposes.
 
 
 ```
+
 
 
 
